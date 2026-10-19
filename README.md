@@ -55,4 +55,4 @@ Resep terhubung ke item lewat `resultItemId`.
    ```
 
 ## Identitas
-Nama: ................ | NIM: ................ | Kelas: ................
+Nama: Alia Julyanti | NIM: 240605110165 | Kelas: F
